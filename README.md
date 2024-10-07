@@ -23,3 +23,7 @@ Again, I used **SHAP values** and **RandomForestClassifier()** to develop a pred
 This predictive model amassed an accuracy of up to **85%**.
 
 As for sampling bias, I discovered that almost **85%** of patients were of the "White" race, **less than 7%** of patients were of the "Black" race, and about **8%** of patients identified as neither "White" nor "Black".
+
+AI Algorithms and Healthcare - A Research Paper
+-
+Our team's hard work was all compiled into this research paper and submitted to CUCAI as our final project - give it a read! :)
